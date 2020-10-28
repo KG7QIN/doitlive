@@ -1,6 +1,29 @@
 Changelog
 ---------
 
+(unreleased)
+************
+
+Support:
+
+* Test against Python 3.8 and 3.9.
+
+4.3.0 (2019-04-07)
+******************
+
+Features:
+
+* Enter and exit "stealth mode" by pressing TAB (:issue:`113`). Thanks
+  :user:`ThinkBriK` for the suggestion and thanks :user:`jlehett` for
+  the implementation.
+
+4.2.1 (2018-12-22)
+******************
+
+Bug fixes:
+
+* Fix behavior of ``commentecho`` when a comment includes quote characters.
+
 4.2.0 (2018-11-08)
 ******************
 
